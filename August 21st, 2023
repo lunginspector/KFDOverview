@@ -1,0 +1,13 @@
+August 21st, 2023
+Updates:
+1. SimpleKFD releases, which is an alternative to Picasso.
+2. Picasso v2 Beta 3 releases, which brings many bug fixes plus offests for A16 16.6b1 devices.
+3. iAppsInstaller tweets that he was able to overwrite in /var on KFD.
+
+KFD Stablity: Low
+KFD is currently fairly unstable and is having many issues, is working on most iPhones 16.0-16.6b1, but is not working on most iPads. 
+
+Well-Known KFD apps:
+1. Picasso
+2. Misaka
+3. Cluckabunga (formerly known as chicken butt)
